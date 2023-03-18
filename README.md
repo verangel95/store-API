@@ -4,7 +4,7 @@
 
 ###### GET List all products - /api/v1/products
 
-########## Query Params
+######### Query Params
 
 name: string
 
