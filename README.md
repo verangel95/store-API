@@ -2,9 +2,9 @@
 
 #### store-api
 
-###### GET List all products - /api/v1/products
+##### GET List all products - /api/v1/products
 
-######## Query Params
+###### Query Params
 
 name: string
 
