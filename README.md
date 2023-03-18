@@ -1,3 +1,9 @@
+
+### Descripcion del proyecto
+
+En este proyecto construimos una API con expressJS y la API de mongoose, en la cual se busca implementar los filtros, parametros de ordenacion y paginado de una pagina web de compras.
+
+
 ### API DOCUMENTATION
 
 #### store-api
